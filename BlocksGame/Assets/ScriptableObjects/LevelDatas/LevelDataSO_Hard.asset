@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75bda1c3e6822f4ba17078d7b199757, type: 3}
+  m_Name: LevelDataSO_Hard
+  m_EditorClassIdentifier: 
+  blockCount: 12
+  gridSize: 6
+  colors:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.09069872, b: 1, a: 1}
+  - {r: 0.7565203, g: 0, b: 1, a: 1}
+  - {r: 0.010703921, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0.9238702, b: 0, a: 1}
+  - {r: 1, g: 0.2954281, b: 0, a: 1}
+  - {r: 0.33962262, g: 0.14172931, b: 0.059273757, a: 1}
+  - {r: 0, g: 0.8550153, b: 1, a: 1}
+  - {r: 1, g: 0.5707547, b: 0.9998244, a: 1}
+  - {r: 0.028624594, g: 0.5, b: 0, a: 1}
+  - {r: 1, g: 0.8059721, b: 0.3915094, a: 1}
+  - {r: 1, g: 0.5518868, b: 0.5518868, a: 1}
